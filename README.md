@@ -1,23 +1,33 @@
 # 📝 ToDo API (C# ASP.NET Core)
 
-##Version 1 -
+Ein einfaches Backend-Projekt mit ASP.NET Core Web API, das grundlegende CRUD-Funktionalitäten für ToDo-Items bereitstellt.  
+Zeigt den Einsatz von RESTful APIs, Repository Pattern und Swagger-Dokumentation.
 
-A simple backend project built with ASP.NET Core Web API that provides basic CRUD functionality for ToDo items.  
-Shows the use of RESTful API's, repository pattern and Swagger documentation.
-
-## 🔧 Technologies
+## 🔧 Technologien
 
 - C# / ASP.NET Core (.NET 8)
-- In-Memory Repository (no database required)
-- RESTful API with JSON
-- Swagger for API documentation
+- In-Memory Repository (keine Datenbank erforderlich)
+- RESTful API mit JSON
+- Swagger für API-Dokumentation
 
-## ▶️ Getting Started
+---
+
+## 📦 Versionen
+
+### ✅ Version 1
+
+Einfaches CRUD-System mit:
+- In-Memory Repository
+- REST API Endpoints
+- Swagger UI
+
+#### ▶️ Starten
 
 ```bash
 dotnet run
 ```
+---
 
-##Version 2 -
+## Version 2
 
 coming soon...
